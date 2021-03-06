@@ -1,3 +1,8 @@
+/*
+ham xu li xau 
+strcmp()
+*/
+
 #include <iostream>
 using namespace std;
 
