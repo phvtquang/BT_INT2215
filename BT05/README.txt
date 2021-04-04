@@ -1,14 +1,14 @@
 ﻿B3 hàm cube() chạy 1000 lần
 B4 đổi dấu số nguyên được nhập vào
-B5 
-B6
+B5 A
+B6 B
 B7 D
 B8 A
 B9 D 
 B10 B
 B11 C
 B12 B
-B13	D
+B13 D
 B14 D
 B15 B
 B16 D

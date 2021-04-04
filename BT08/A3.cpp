@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// sử dụng con trỏ trỏ tới con trỏ
 void swap_pointers(char** x, char** y)
 {
    char *tmp;

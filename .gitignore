@@ -7,3 +7,7 @@
 *.vcxproj.filters
 **/INPUT.TXT
 *.exe
+**/.vscode
+**/.vs
+*.docx
+
