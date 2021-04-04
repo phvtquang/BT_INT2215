@@ -10,8 +10,7 @@ int main()
     a[9] = '\0';
     cerr << "a: " << "-" << a << "-" << endl;
     cerr << "c: " << "-" << c << "-" << endl;
-    delete c;
-    // dong nay khong chay nhu mong muon
-    //delete bien phai thu dc tu new
+    delete c; // dong nay khong chay nhu mong muon
+    //delete bien phai thu duoc tu new
     cerr << "a after deleting c:"<< "-" << a << "-" << endl; 
 }
